@@ -1,0 +1,59 @@
+ 
+nav {background-color: rgb(48, 45, 45); }
+nav {border: 1px solid rgb(48, 45, 45);
+padding: 20% rgb(48,45,45);
+}
+body{background-color: white;}
+.card {border-color: blue;
+border-radius: 0%;
+}
+
+button {border: none;
+    background-color: white;
+    width: auto;
+    }
+.total{background-color: blue;
+}
+
+/* .BorraResume{position: relative
+    ;} 
+
+.boton1{position: absolute;
+    width: 100%;} */
+
+    .boton {
+        background-color: #09570c; /* Green */
+        border: none;
+        color: white;
+        padding: 15px 32px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+        margin: 4px 2px;
+        cursor: pointer;
+        border-radius: 12px;
+        text-align: center;
+      }
+
+      .boton {width: 25%;
+      text-align: center;}
+
+      .nav {
+        background-color: rgba(3, 14, 34, 0.871); 
+        list-style-type: none;
+      
+        text-align: center;
+        margin: 2rem;
+        padding: auto;
+        color:white
+    
+      }
+      
+      .nav li {
+        display: inline-block;
+        font-size: 20px;
+        padding: 20px;
+        color:white}
+
+       
